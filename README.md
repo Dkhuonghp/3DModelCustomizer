@@ -6,8 +6,6 @@ Demo for the tutorial on how to build a 3d model color customizer app with Three
 
 [Article on Codrops](https://tympanus.net/codrops/?p=43333)
 
-[Demo](http://tympanus.net/Tutorials/3DModelCustomizer/)
-
 ## Credits
 
 - [three.js](https://threejs.org/)
